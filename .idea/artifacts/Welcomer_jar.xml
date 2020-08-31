@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Welcomer:jar">
+    <output-path>$PROJECT_DIR$/../ncp test server/plugins</output-path>
+    <root id="archive" name="Welcomer.jar">
+      <element id="module-output" name="Welcomer" />
+    </root>
+  </artifact>
+</component>
