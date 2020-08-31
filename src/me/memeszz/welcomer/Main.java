@@ -18,6 +18,6 @@ public class Main extends JavaPlugin implements Listener {
 
     @EventHandler
     private void onJoinEvent(PlayerJoinEvent event) {
-        event.setJoinMessage("" + event.getPlayer().getName() + " Welcome to Server");
+        event.setJoinMessage("" + event.getPlayer().getName() + " Welcome to Server Name");
     }
 }
